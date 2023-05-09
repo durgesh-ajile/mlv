@@ -45,7 +45,7 @@ const Index = () => {
                   </div>
                   <div className="image-box">
                     <div className="image">
-                      <img src="assets/images/building1edit.jpg" alt="" />
+                      <img src="assets/images/building1edit.JPG" alt="" />
                     </div>
                   </div>
                 </div>
