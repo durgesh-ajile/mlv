@@ -105,7 +105,7 @@ const Header = ({ headernumber }) => {
                   </a>
                 </Link>
                 <i><p>"Service Is Salvation"</p></i>
-                <h1 style={{fontWeight:"600"}}>MLV Student PG Services</h1>
+                <h1 style={{fontWeight:"600"}}>MLV PG Services PVT. LTD.</h1>
               </div>
             </div>
             </div>

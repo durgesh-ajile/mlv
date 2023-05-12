@@ -219,7 +219,7 @@ const Index = () => {
                 </div>
                 <div className="inner-box">
                   {/* <div className="pricing">$100 per day</div> */}
-                  <div className="text">Single Sharing Bed</div>
+                  <div className="text">Double Sharing Bed</div>
                 </div>
               </div>
             </div>
@@ -230,7 +230,7 @@ const Index = () => {
                 </div>
                 <div className="inner-box">
                   {/* <div className="pricing">$100 per day</div> */}
-                  <div className="text">Double Sharing Bed </div>
+                  <div className="text">Single Sharing Bed </div>
                 </div>
               </div>
             </div>

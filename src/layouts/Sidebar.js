@@ -146,6 +146,14 @@ const Sidebar = ({ open, closeSidebar }) => {
                 <a href="tel:9535340123">9535340123</a>
               </li>
               <li>
+                <i className="fal fa-phone" />
+                <a href="tel:9066570348">9066570348</a>
+              </li>
+              <li>
+                <i className="fal fa-phone" />
+                <a href="tel:7999028533">7999028533</a>
+              </li>
+              <li>
                 <i className="fal fa-envelope" />
                 <a href="mailto:mlvpgservices@gmail.com">mlvpgservices@gmail.com</a>
               </li>
